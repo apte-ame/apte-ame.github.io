@@ -13,6 +13,7 @@
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
+  
 }
 .hero_desc {
     font-size: 2rem;
@@ -76,3 +77,17 @@
     background-color: #808080;
     text-align: center;
 }
+
+.card-text {
+    text-align: center;
+}
+
+.navbar {
+    
+    background-color: black;
+}
+
+.col-lg-8 {
+    font-size: x-large;
+}
+
