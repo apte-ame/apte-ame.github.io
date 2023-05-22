@@ -183,6 +183,7 @@ nav ul li a:hover::after{
 .services-list div i{
     font-size: 50px;
     margin-bottom: 30px;
+    margin-right: 10px;
 }
 
 .services-list div h2{
